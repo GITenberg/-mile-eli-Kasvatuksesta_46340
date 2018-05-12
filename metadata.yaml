@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1286
     wikipedia: http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46340#-mile-eli-Kasvatuksesta
 gutenberg_issued: '2014-07-20'
 gutenberg_type: Text
 identifiers:
